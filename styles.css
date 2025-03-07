@@ -1,0 +1,31 @@
+body {
+    background-image: url(download.jfif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#titleone {
+    text-align: center;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: rgba(66, 66, 66, 0.384);
+    border-style: solid;
+    background-image: linear-gradient(rgb(4, 255, 58), green);
+}
+
+#video1 {
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(66, 66, 66, 0.384);
+    text-align: center;
+    align-items: center;
+    background-image: linear-gradient(rgb(4, 255, 58), green);
+}
+
+#page2thing {
+    background-color: green;
+    
+}
+
+a.page2thing:hover {font-size: 120%;}
